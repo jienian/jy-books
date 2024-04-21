@@ -18,7 +18,6 @@
 
 ![image](https://github.com/jienian/jy-books/assets/45189482/77878a87-1e24-4cd2-98be-692cbe45ce4e)
 ![image](https://github.com/jienian/jy-books/assets/45189482/9e720fc9-086d-4770-99cf-26a7924c1cba)
-
 # ![Alt text](NoteHome.png)
 # ![Alt text](BookShelf.png)
 
